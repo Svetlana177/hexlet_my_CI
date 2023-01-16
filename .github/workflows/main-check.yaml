@@ -1,8 +1,6 @@
 # Name of workflow
 name: main-check
 
-  - run: make say hello
-
 on: push
 
 jobs:
