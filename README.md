@@ -1,10 +1,10 @@
 # hexlet my CI: Continuous-Integration
 
-1 В репозитории Makefile  добавлена команду say-hello, которая печатает на экран Hello, World! 
+1 В Makefile  добавлена команду say-hello, которая печатает на экран Hello, World! 
 
 [bash]
 ----
-make say-hello
+make say-hello  
 Hello, World!
 ----
 2 Добавлено воркфлоу, в котором запускается созданная команда

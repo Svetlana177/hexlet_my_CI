@@ -1,0 +1,13 @@
+# Name of workflow
+name: main-check
+
+  - run: make say hello
+
+on: push
+
+jobs:
+  greet:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: make say-hello
