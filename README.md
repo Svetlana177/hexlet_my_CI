@@ -1,1 +1,1 @@
-# hexlet_my_CI_-Continuous-Integration-
+# hexlet my CI: Continuous-Integration
